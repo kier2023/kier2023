@@ -18,17 +18,7 @@ Here are some ideas to get you started:
 ### Kieron Skelton  
 > Software Engineer • Founder & Lead Developer of [The Serenity Project](https://serenitycentral.cloud/)
 
-I don’t care about contribution graphs, follower counts, or how many languages I know.  
-My repositories don’t define me.  
-My commit history doesn’t define me.  
-My *purpose* does.
+I don't care. Githuub pisses me off. You checking my profile pisses me off. 
+I code. What else do you want to know? 
 
-I build tools that make people feel human again.  
-That’s what matters.  
-That’s what counts.
-
-> Passion over prestige.  
-> Empathy over ego.  
-> Code with conscience.
-
-*(and to the algorithm that thinks stars measure worth — you can go fork yourself.)*
+*(and to the algorithm that thinks repositories measure worth — you can go fork yourself.)*
