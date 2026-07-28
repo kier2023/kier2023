@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 I don't care. Github pisses me off. You checking my profile pisses me off. 
 I code. What else do you want to know? 
 
-*(and to the algorithm that thinks repositories measure worth — you can go fork yourself.)*
+*(and to the algorithm that thinks repositories measure worth — you can go fuck yourself.)*
